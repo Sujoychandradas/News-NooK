@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848179466563",
+    "project_id": "wallpaper-a7d05",
+    "storage_bucket": "wallpaper-a7d05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848179466563:android:93b624294c8fb4503e5ff6",
+        "android_client_info": {
+          "package_name": "com.example.news_nook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1TQHS0OSA4yfLh469wNmPJ2woISIoiTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
