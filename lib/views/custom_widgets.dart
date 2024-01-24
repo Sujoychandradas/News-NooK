@@ -67,7 +67,7 @@ class CustomWidget {
               Navigator.pop(context); // Close the drawer
             },
           ),
-          const Divider(), // Add a divider for visual separation
+          const Divider(), 
           ListTile(
             title: const Text('Settings'),
             leading: const Icon(Icons.settings),

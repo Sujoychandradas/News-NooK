@@ -12,7 +12,7 @@ class _SpalshScreenState extends State<SpalshScreen> {
   void initState() {
     // TODO: implement initState
     Future.delayed(const Duration(seconds: 3), () {
-      Navigator.pushReplacementNamed(context, '/home');
+      Navigator.pushReplacementNamed(context, '/login');
     });
     super.initState();
   }
